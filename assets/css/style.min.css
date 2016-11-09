@@ -1,6 +1,8 @@
 /* Digvijay Singh Shekhawat | @redigvijay */
 
-
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 a,
 a:visited,
 body {
@@ -20,8 +22,7 @@ h4 {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Lato', sans-serif;
+    font: 300 15px/1.6 'Open+Sans', sans-serif;
     letter-spacing: .75px
 }
 
@@ -352,8 +353,7 @@ h3a>.fa {
 
 .navbar,
 .navbar-custom .navbar-brand {
-    
-    font: 700 18px/1.2 Lato, sans-serif
+    font: 700 18px/1.2 Montserrat, sans-serif
 }
 
 .mouse-icon {
