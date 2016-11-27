@@ -421,6 +421,7 @@ h3a>.fa {
 
 .navbar-nav {
     width: 100%;
+    padding-right: 30px;
     text-align: center
 }
 
