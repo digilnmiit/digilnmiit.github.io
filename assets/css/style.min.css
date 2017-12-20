@@ -557,8 +557,23 @@ h3a>.fa {
     color: #FFF
 }
 
-.widget-social li a:hover {
-    background: #EF4836
+.widget-social li a#id1:hover {
+    background: #1DA1F2
+}
+.widget-social li a#id2:hover {
+    background: #0077B5
+}
+.widget-social li a#id3:hover {
+    background: #292929
+}
+.widget-social li a#id4:hover {
+    background: #EA4C89
+}
+.widget-social li a#id5:hover {
+    background: #BD081C
+}
+.widget-social li a#id6:hover {
+    background: #FF6C00
 }
 
 .stat .stat-icon {
