@@ -1,5 +1,9 @@
 /* Digvijay Singh Shekhawat | @redigvijay */
 
+::-webkit-scrollbar {
+display: none;
+}
+
 a,
 a:visited,
 body {
@@ -22,6 +26,7 @@ body {
     font: 300 15px/1.6 'Open+Sans', sans-serif;
     letter-spacing: .75px
 }
+
 
 img {
     max-width: 100%;
