@@ -4,7 +4,7 @@
   top:0px;
   width:100%;
   height:480px;
-  background-image:url(Images/DarkOverlay.png);
+  background-image:url(../Images/DarkOverlay.png);
   pointer-events:none;
 }
 
