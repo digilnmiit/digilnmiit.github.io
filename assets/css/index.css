@@ -8,6 +8,10 @@
   pointer-events:none;
 }
 
+.text-center{
+  text-align: center;
+}
+
 .darkContent {
   font: 12px "Arial", sans-serif;
   color: #555;
